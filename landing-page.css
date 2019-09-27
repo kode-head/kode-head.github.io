@@ -1,0 +1,73 @@
+/*p {
+	flex-wrap: wrap;
+	display: flex;
+	justify-content: center;
+}
+
+body {
+  background-image: url("landingpic.jpg");
+  background-size: cover;
+}
+
+.button {
+ text-align: center;
+  width: 150px;
+  margin: 0 auto;
+  height: 50px;
+  border-radius: 90px;
+  background-color: blue;
+  background: #3b88d8;
+}
+
+.button {
+	border-top: 1px solid #4081af;
+	border-right: 1px solid #2e6983;
+	border-bottom: 1px solid #20559a;
+	border-left: 1px solid #2e69a3;
+}
+ .button {
+ 	box-shadow: #b3b3b3;
+ 	text-shadow: 0 -1px 1px #3275bc;
+ }
+
+ .button:hover {
+ 	background: #2a81d7;
+ 	border-top: 1px solid #2a73a6;
+ 	border-bottom: 1px solid #07428f;
+ 	border-left: 1px solid #165899;
+ 	box-shadow: 1px solid #62b1e9;
+ 	cursor: pointer;
+ 	text-shadow: 0 -1px 1px #1d62ab;
+ }
+
+ .button:active {
+ 	background: #3282d3;
+ 	border: 1px solid #154c8c;
+ 	border-bottom: 1px solid #0e408e;
+ 	box-shadow: 1px solid #fff;
+ 	text-shadow: 0 -1px 1px #2361a4;
+ }
+
+.button[disabled], .button[disabled]:hover, .button[disabled]:active {
+	background: #999;
+	border-top: 1px solid #c5c5c5;
+	border-right: 1px solid #cecece;
+	border-bottom: 1px solid #d9d9d9;
+	border-left: 1px solid #cecece;
+	color: #8f8f8f;
+	box-shadow: none;
+	cursor: not-allowed;
+	text-shadow: 0 -1px 1px #ebebeb;
+}
+a {
+	color: red
+}*/
+
+body {
+  background-image: url("landingpic.jpg");
+  background-size: cover;
+}
+
+.btn {
+	text-align: center;
+}
